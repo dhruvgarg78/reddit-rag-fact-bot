@@ -99,8 +99,11 @@ The bot will:
 
 ---
 
-## ✅ TODOs
-- [ ] Add unit tests
-- [ ] Improve query deduplication logic
-- [ ] Extend support to other subreddits
-- [ ] Fine-tune chunking and retrieval parameters
+## 📷 Example Terminal Output
+
+![Screenshot 2025-05-16 191352](https://github.com/user-attachments/assets/415c0975-73ad-440e-88af-91486d0ae7e6)
+![Screenshot 2025-05-16 191421](https://github.com/user-attachments/assets/78169441-30e6-4d2a-8bd0-d0562852dd19)
+![Screenshot 2025-05-16 191500](https://github.com/user-attachments/assets/c345aacb-7a6a-47e9-9835-ab98ce13496f)
+![Screenshot 2025-05-16 191512](https://github.com/user-attachments/assets/d4703e3e-a672-4df3-880f-2191b7ea76b0)
+![Screenshot 2025-05-16 191532](https://github.com/user-attachments/assets/f4fb47ce-d273-4127-9fe4-6303728ace36)
+
