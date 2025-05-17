@@ -3,6 +3,12 @@
 This project is a Retrieval-Augmented Generation (RAG) pipeline that monitors Reddit posts related to Indian history and replies with fact-checked information based on **scholarly sources**. It integrates document embedding, FAISS-based retrieval, and Gemini-based language generation.
 
 ---
+## 📸 Example Reddit Replies
+Here are some examples of how the bot responds to historical claims on Reddit using context from scholarly sources:
+
+![image](https://github.com/user-attachments/assets/9854ae74-0f27-4d13-8b99-db55104dcc9a)
+![image](https://github.com/user-attachments/assets/7c0ce000-14d2-4176-9543-b6ee834ebab6)
+
 
 ## 📁 Project Structure
 
